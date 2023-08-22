@@ -217,3 +217,7 @@
 
 ## 🙌 Final Automation
 📽️ Watch these video on <a href="https://youtu.be/eaIH36Q41yU" target="_blank">YouTube</a> for a comprehensive real-world test involving all aspects.
+
+### Collaboration
+Collaborated with [Mert Yürekli](https://github.com/mertyurekli)
+Collaborated with [Ahmet Uğuz](https://github.com/ahmtuguz)
