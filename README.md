@@ -210,10 +210,13 @@
         ```
 
 ### Challenging Area Mapping Result
-![mapping](https://github.com/Alperenlcr/ROS_Navigation_Over_the_Maze/assets/75525649/7b9e0e29-0f05-43bf-8619-33e2aa2c2ec9)
+![image](https://github.com/Alperenlcr/ROS_Autonomous_Robot_Real_World/assets/75525649/7fa982aa-1b81-4b65-a608-039285ff03b9)
 
 ### Costmap
 ![imgonline-com-ua-twotoone-vOiBy8Cm9hHK6xK](https://github.com/Alperenlcr/ROS_Navigation_Over_the_Maze/assets/75525649/04760aad-e3cf-44fd-8b5d-f859a35455db)
+
+### Image Processing on Raspberry Pi
+![Screenshot_2023-05-30_193933](https://github.com/Alperenlcr/ROS_Autonomous_Robot_Real_World/assets/75525649/df933811-973c-4109-84fb-dcea9717d65d)
 
 ## 🙌 Final Automation
 📽️ Watch these video on <a href="https://youtu.be/eaIH36Q41yU" target="_blank">YouTube</a> for a comprehensive real-world test involving all aspects.
