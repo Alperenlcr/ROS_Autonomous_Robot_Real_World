@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+  <node pkg="interface" type="interface_pub.py" name="interface_publisher" output="screen" />
+
+  <node pkg="drive2" type="qt_interface.py" name="interface_QT" output="screen" />
+
+</launch>

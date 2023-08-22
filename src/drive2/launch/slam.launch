@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Include lidar -->
+  <include file="$(find ydlidar_ros_driver)/launch/X4.launch" />
+
+  <!-- Include hector slam -->
+  <include file="$(find hector_slam_launch)/launch/tutorial.launch" />
+
+  <node pkg="drive2" type="pose_to_odom.py" name="pose_to_odom_converter" output="screen" />
+
+</launch>
